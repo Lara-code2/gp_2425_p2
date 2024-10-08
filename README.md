@@ -5,7 +5,7 @@ p2_imatge+audio+video
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>p2</title>
 </head>
 <body>
     <h1>p2_image + video + audio</h1>
